@@ -15,18 +15,18 @@ Your primary task is to develop a reusable Dropdown Select component using React
 Here's what the component API should look like:
  
 ```jsx
-    const options = [
-        { value: 'red', label: 'Red' },
-        { value: 'green', label: 'Green' },
-        { value: 'blue', label: 'Blue' },
-    ];
+const options = [
+    { value: 'red', label: 'Red' },
+    { value: 'green', label: 'Green' },
+    { value: 'blue', label: 'Blue' },
+];
 
-    <DropdownSelect
-        label="Select a color"
-        options={options}
-        onChange={value => console.log(value)}
-        isSearchable
-    />
+<DropdownSelect
+    label="Select a color"
+    options={options}
+    onChange={value => console.log(value)}
+    isSearchable
+/>
 ```
 
 
