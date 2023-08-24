@@ -63,22 +63,22 @@ To assist you in understanding the desired user experience and interactions for 
 
 - Opening and closing the dropdown menu
 <div align="left">
-  <img src="https://github.com/washingtonsoares/frontend-take-home-assignment/assets/5726140/e2ca2e26-d8c6-4852-ac82-b1f376d69fae" alt="open-close-menu" />
+  <img src="https://github.com/washingtonsoares/frontend-take-home-assignment/assets/5726140/8b1d3616-677e-49e7-b2d9-0e46ebd0482d" alt="open-close-menu" />
 </div>
 
 - Selecting items
 <div align="left">
- <img src="https://github.com/washingtonsoares/frontend-take-home-assignment/assets/5726140/1e32a26e-4424-4873-9a4c-93706323c6fd" alt="selecting items" />
+ <img src="https://github.com/washingtonsoares/frontend-take-home-assignment/assets/5726140/4ae24c61-65c0-4ea2-abce-6666bf0d0032" alt="selecting items" />
 </div>
 
 - Searching for items
 <div align="left">
- <img src="https://github.com/washingtonsoares/frontend-take-home-assignment/assets/5726140/262d74d9-fd6d-4a2f-a246-41ff3adbd6a3" alt="searching for items" />
+ <img src="https://github.com/washingtonsoares/frontend-take-home-assignment/assets/5726140/682afdb9-b4cc-4d7b-b0f0-a6bafcdff02b" alt="searching for items" />
 </div>
 
 - Disabled search feature
 <div align="left">
- <img src="https://github.com/washingtonsoares/frontend-take-home-assignment/assets/5726140/d1a2430e-1e00-4a90-bc2a-ba3d722766b0" alt="disabled search" />
+ <img src="https://github.com/washingtonsoares/frontend-take-home-assignment/assets/5726140/dec87de2-36dc-4ec1-8753-7fed0d3ec21c" alt="disabled search" />
 </div>
 
 ### Bonus Features
