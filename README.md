@@ -7,6 +7,7 @@ Thank you for your interest in joining our team as a Senior Frontend Engineer. A
 
 ## Objective
 
+
 Your primary task is to develop a reusable Dropdown Select component using React. This component should allow users to select a single option from a list and should be versatile enough to be used in forms and multiple instances on the same page. Additionally, the component should be compatible with our existing design system for styling.
 
 ## Component API Example
@@ -61,12 +62,24 @@ By following these steps, you should be able to create a Dropdown Select compone
 To assist you in understanding the desired user experience and interactions for the Dropdown Select component, we will provide a set of GIF images. These GIFs will serve as visual guides to demonstrate how the component should behave in various scenarios, such as:
 
 - Opening and closing the dropdown menu
+<div align="left">
+  <img src="https://github.com/washingtonsoares/frontend-take-home-assignment/assets/5726140/e2ca2e26-d8c6-4852-ac82-b1f376d69fae" alt="open-close-menu" />
+</div>
 
 - Selecting items
+<div align="left">
+ <img src="https://github.com/washingtonsoares/frontend-take-home-assignment/assets/5726140/1e32a26e-4424-4873-9a4c-93706323c6fd" alt="selecting items" />
+</div>
 
 - Searching for items
+<div align="left">
+ <img src="https://github.com/washingtonsoares/frontend-take-home-assignment/assets/5726140/262d74d9-fd6d-4a2f-a246-41ff3adbd6a3" alt="searching for items" />
+</div>
 
 - Disabled search feature
+<div align="left">
+ <img src="https://github.com/washingtonsoares/frontend-take-home-assignment/assets/5726140/d1a2430e-1e00-4a90-bc2a-ba3d722766b0" alt="disabled search" />
+</div>
 
 ### Bonus Features
 
