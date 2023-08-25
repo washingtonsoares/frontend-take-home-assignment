@@ -90,7 +90,7 @@ To assist you in understanding the desired user experience and interactions for 
 
 However you are totally free to choose your own color scheme if you believe it enhances the component's usability or aesthetics
 
-### Bonus Features
+### Bonus Features (not required)
 
 If you found the core task to be relatively straightforward and are interested in going the extra mile, consider implementing the following optional features:
 
