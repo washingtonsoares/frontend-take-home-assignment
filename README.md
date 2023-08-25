@@ -15,20 +15,19 @@ Your primary task is to develop a reusable Dropdown Select component using React
 Here's what the component API should look like:
  
 ```jsx
-    const options = [
-        { value: 'red', label: 'Red' },
-        { value: 'green', label: 'Green' },
-        { value: 'blue', label: 'Blue' },
-    ];
+const options = [
+    { value: 'red', label: 'Red' },
+    { value: 'green', label: 'Green' },
+    { value: 'blue', label: 'Blue' },
+];
 
-    <DropdownSelect
-        label="Select a color"
-        options={options}
-        onChange={value => console.log(value)}
-        isSearchable
-    />
+<DropdownSelect
+    label="Select a color"
+    options={options}
+    onChange={value => console.log(value)}
+    isSearchable
+/>
 ```
-
 
 ### Technology guidelines
 
@@ -42,7 +41,7 @@ This section outlines the functionalities and features that the Dropdown Select 
 
 - **Dropdown input UI:** Create the user interface for the dropdown input field. This is the element that users will interact with to trigger the dropdown menu.
 
-- **Dropdown menu UI:** Develop the dropdown menu that will appear when the input field is clicked. This menu will display the list of selectable options.
+- **Dropdown menu UI:** Develop the dropdown menu that will appear when the input field is clicked. This menu will display the list of selectable options. Additionally, the currently selected option should be highlighted within the menu to provide visual feedback to the user.
 
 - **Dropdown label:** The component should include a label that serves as a placeholder when no option is selected. Once an option is selected, the label should be replaced by the selected item.
 
@@ -81,11 +80,17 @@ To assist you in understanding the desired user experience and interactions for 
  <img src="https://github.com/washingtonsoares/frontend-take-home-assignment/assets/5726140/d1a2430e-1e00-4a90-bc2a-ba3d722766b0" alt="disabled search" />
 </div>
 
+** Color Palette **
+- Dropdown item hover: #9fc3f870
+- Dropdown item selected: #0d6efd
+
+However you are totally free to choose your own color scheme if you believe it enhances the component's usability or aesthetics
+
 ### Bonus Features
 
-- Tests: Write unit tests for your components.
-- TailwindCSS: Use TailwindCSS for styling if you're familiar with it.
+- Tests: Implement tests to ensure the functionality and reliability of your component.
 - Online Demo: Deploy a live demo of your component using platforms like Netlify, Vercel, CodeSandbox etc.
+- TailwindCSS
 
 ### Delivery Instructions
 
