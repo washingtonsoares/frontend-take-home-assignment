@@ -34,6 +34,7 @@ const options = [
 - **Technology Stack:** You must use React for this assignment. You may also use Next.js as your framework if you prefer.
 - **Styling:** We use [TailwindCSS](https://tailwindcss.com/) internally, but you may use vanilla CSS or any other library you prefer.
 - **TypeScript:** It's not a mandatory requirement for this assignment, you are welcome to use it if you prefer.
+- **Tests:** Implement tests to ensure the functionality and reliability of your component.
 
 ### Design guidelines
 
@@ -91,9 +92,11 @@ However you are totally free to choose your own color scheme if you believe it e
 
 ### Bonus Features
 
-- **Tests:** Implement tests to ensure the functionality and reliability of your component.
+If you found the core task to be relatively straightforward and are interested in going the extra mile, consider implementing the following optional features:
+
+- **Controlled component:** This means it should accept a `value` prop that controls the currently selected option. In addition, the component should also accept an `open` prop to allow the open/closed state of the dropdown menu to be controlled externally.
+- **Keyboard navigation:** Implement keyboard navigation to allow users to navigate through the dropdown menu using the arrow keys and select items using the enter key.
 - **Online Demo:** Deploy a live demo of your component using platforms like Netlify, Vercel, CodeSandbox etc.
-- **TailwindCSS**
 
 ### Delivery Instructions
 
