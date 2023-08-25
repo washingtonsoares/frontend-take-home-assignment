@@ -31,9 +31,9 @@ const options = [
 
 ### Technology guidelines
 
-- Technology Stack: You must use React for this assignment. You may also use Next.js as your framework if you prefer.
-- Styling: We use [TailwindCSS](https://tailwindcss.com/) internally, but you may use vanilla CSS or any other library you prefer.
-- TypeScript: It's not a mandatory requirement for this assignment, you are welcome to use it if you prefer.
+- **Technology Stack:** You must use React for this assignment. You may also use Next.js as your framework if you prefer.
+- **Styling:** We use [TailwindCSS](https://tailwindcss.com/) internally, but you may use vanilla CSS or any other library you prefer.
+- **TypeScript:** It's not a mandatory requirement for this assignment, you are welcome to use it if you prefer.
 
 ### Design guidelines
 
@@ -80,23 +80,26 @@ To assist you in understanding the desired user experience and interactions for 
  <img src="https://github.com/washingtonsoares/frontend-take-home-assignment/assets/5726140/dec87de2-36dc-4ec1-8753-7fed0d3ec21c" alt="disabled search" />
 </div>
 
-** Color Palette **
-- Dropdown item hover: #9fc3f870
+<br />
+<br />
+
+**Color Palette**
 - Dropdown item selected: #0d6efd
+- Dropdown item hover: #9fc3f870
 
 However you are totally free to choose your own color scheme if you believe it enhances the component's usability or aesthetics
 
 ### Bonus Features
 
-- Tests: Implement tests to ensure the functionality and reliability of your component.
-- Online Demo: Deploy a live demo of your component using platforms like Netlify, Vercel, CodeSandbox etc.
-- TailwindCSS
+- **Tests:** Implement tests to ensure the functionality and reliability of your component.
+- **Online Demo:** Deploy a live demo of your component using platforms like Netlify, Vercel, CodeSandbox etc.
+- **TailwindCSS**
 
 ### Delivery Instructions
 
-- Repository: Submit your solution by providing a link to a public GitHub repository.
-- README: Include a README.md file in your repository with clear instructions on how to set up and run your project.
-- Questions: If you encounter any uncertainties or ambiguities, feel free to reach out to us for clarification.
+- **Repository:** Submit your solution by providing a link to a public GitHub repository.
+- **README:** Include a README.md file in your repository with clear instructions on how to set up and run your project.
+- **Questions:** If you encounter any uncertainties or ambiguities, feel free to reach out to us for clarification.
 
 
 #### We're excited to see what you come up with. Good luck!
